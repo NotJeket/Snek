@@ -4,7 +4,7 @@ This is a simple game that allows the player to control a snake that moves aroun
 
 **Flowchart**
 
-![](Aspose.Words.f6824c11-6708-442d-aa13-96f53c3d825f.001.png)
+![Aspose Words f6824c11-6708-442d-aa13-96f53c3d825f 001](https://user-images.githubusercontent.com/37781149/233155047-12d49927-0f61-40f2-bf80-ec3131df5098.png)
 
 **Usage**
 
